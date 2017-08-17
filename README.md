@@ -12,6 +12,7 @@ The algorithms which I have implemented till now are:
 * Muller's method
 * Multipoint method
 * Gauss-Elimination
+* Gauss-Jordan
 
 ## How to use
 * Download the repository.
