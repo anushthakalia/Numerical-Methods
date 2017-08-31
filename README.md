@@ -13,6 +13,8 @@ The algorithms which I have implemented till now are:
 * Multipoint method
 * Gauss-Elimination
 * Gauss-Jordan
+* LU decomposition
+* Gauss-seidal method
 
 ## How to use
 * Download the repository.
